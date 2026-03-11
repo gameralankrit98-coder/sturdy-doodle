@@ -13,6 +13,8 @@ body{
 }
 
 #glassbox{
+text align: center;
+text-decoration: underline;
  height: 250px;
  width: 250px;
  
